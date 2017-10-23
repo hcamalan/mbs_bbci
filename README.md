@@ -11,5 +11,4 @@ Description of files:
 - "functions.py" : functions used in the demonstration
 - "Moment Based Synchronization.ipynb" : jupyter notebook file in which everything is demonstrated with plots. There are some unrelated plots that are from the other part of my lab rotation which was written in matlab
 - "huseyin_camalan_lab_report.pdf" : pdf file of the work for those who are interested
-
-Other files are irrelevant
+- "* .mat": Data imported for plots or for analysis
